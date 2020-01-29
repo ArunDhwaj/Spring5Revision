@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sbp</groupId>
-	<artifactId>Spring5Revision-with-Java-8-and-above</artifactId>
+	<artifactId>Spring5Revision</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring5Revision-with-Java-8-and-above</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring5Revision with Java 8 and above</name>
+	<description>Spring5Revision with Java 8 and above</description>
 
 	<properties>
 		<java.version>1.8</java.version>

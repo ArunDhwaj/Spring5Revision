@@ -1,4 +1,4 @@
-package com.sbp.Spring5Revision.with.Java8.and.above;
+package com.sbp.Spring5Revision;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
