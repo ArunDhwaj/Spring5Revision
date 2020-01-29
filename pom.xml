@@ -11,7 +11,7 @@
 	<groupId>com.sbp</groupId>
 	<artifactId>Spring5Revision</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring5Revision with Java 8 and above</name>
+	<name>Spring5Revision</name>
 	<description>Spring5Revision with Java 8 and above</description>
 
 	<properties>

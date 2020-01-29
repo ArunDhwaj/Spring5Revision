@@ -1,0 +1,13 @@
+package com.sbp.Spring5Revision;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Spring5RevisionApplication
+{
+	public static void main(String[] args)
+	{
+		SpringApplication.run(Spring5RevisionApplication.class, args);
+	}
+}
