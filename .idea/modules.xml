@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring5Revision.iml" filepath="$PROJECT_DIR$/Spring5Revision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring5Revision-with-Java-8-and-above.iml" filepath="$PROJECT_DIR$/Spring5Revision-with-Java-8-and-above.iml" />
     </modules>
   </component>

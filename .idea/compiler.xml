@@ -6,15 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring5Revision" />
         <module name="Spring5Revision-with-Java-8-and-above" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Spring5Revision" target="1.8" />
       <module name="Spring5Revision-with-Java-8-and-above" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring5Revision" options="-parameters" />
       <module name="Spring5Revision-with-Java-8-and-above" options="-parameters" />
     </option>
   </component>
